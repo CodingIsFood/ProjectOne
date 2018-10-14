@@ -1,0 +1,6 @@
+#|/usr/bin/python3
+
+def functionsinpytho(msg):
+    print(msg)
+
+functionsinpytho("This is a Python function call")
